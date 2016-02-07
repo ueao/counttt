@@ -14,6 +14,7 @@
 		5892F1001C66281900F2BCA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5892F0FE1C66281900F2BCA2 /* LaunchScreen.storyboard */; };
 		5892F10B1C66281900F2BCA2 /* CountetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5892F10A1C66281900F2BCA2 /* CountetTests.swift */; };
 		5892F1161C66281900F2BCA2 /* CountetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5892F1151C66281900F2BCA2 /* CountetUITests.swift */; };
+		5892F1261C66327A00F2BCA2 /* Countt10.png in Resources */ = {isa = PBXBuildFile; fileRef = 5892F1251C66327A00F2BCA2 /* Countt10.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5892F1111C66281900F2BCA2 /* CountetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5892F1151C66281900F2BCA2 /* CountetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountetUITests.swift; sourceTree = "<group>"; };
 		5892F1171C66281900F2BCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5892F1251C66327A00F2BCA2 /* Countt10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Countt10.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5892F0F51C66281900F2BCA2 /* AppDelegate.swift */,
 				5892F0F71C66281900F2BCA2 /* ViewController.swift */,
+				5892F1251C66327A00F2BCA2 /* Countt10.png */,
 				5892F0F91C66281900F2BCA2 /* Main.storyboard */,
 				5892F0FC1C66281900F2BCA2 /* Assets.xcassets */,
 				5892F0FE1C66281900F2BCA2 /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				5892F1001C66281900F2BCA2 /* LaunchScreen.storyboard in Resources */,
 				5892F0FD1C66281900F2BCA2 /* Assets.xcassets in Resources */,
 				5892F0FB1C66281900F2BCA2 /* Main.storyboard in Resources */,
+				5892F1261C66327A00F2BCA2 /* Countt10.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
