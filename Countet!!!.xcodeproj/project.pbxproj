@@ -56,17 +56,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5892F0F21C66281900F2BCA2 /* Countet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Countet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5892F0F21C66281900F2BCA2 /* Countet!!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Countet!!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5892F0F51C66281900F2BCA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5892F0F71C66281900F2BCA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5892F0FA1C66281900F2BCA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5892F0FC1C66281900F2BCA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5892F0FF1C66281900F2BCA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5892F1011C66281900F2BCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5892F1061C66281900F2BCA2 /* CountetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5892F1061C66281900F2BCA2 /* Countet!!!.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Countet!!!.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5892F10A1C66281900F2BCA2 /* CountetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountetTests.swift; sourceTree = "<group>"; };
 		5892F10C1C66281900F2BCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5892F1111C66281900F2BCA2 /* CountetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5892F1111C66281900F2BCA2 /* Countet!!!.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Countet!!!.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5892F1151C66281900F2BCA2 /* CountetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountetUITests.swift; sourceTree = "<group>"; };
 		5892F1171C66281900F2BCA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5892F1251C66327A00F2BCA2 /* Countt10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Countt10.png; sourceTree = "<group>"; };
@@ -131,9 +131,9 @@
 		5892F0F31C66281900F2BCA2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5892F0F21C66281900F2BCA2 /* Countet.app */,
-				5892F1061C66281900F2BCA2 /* CountetTests.xctest */,
-				5892F1111C66281900F2BCA2 /* CountetUITests.xctest */,
+				5892F0F21C66281900F2BCA2 /* Countet!!!.app */,
+				5892F1061C66281900F2BCA2 /* Countet!!!.xctest */,
+				5892F1111C66281900F2BCA2 /* Countet!!!.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -210,9 +210,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5892F0F11C66281900F2BCA2 /* Countet */ = {
+		5892F0F11C66281900F2BCA2 /* Countet!!! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5892F11A1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet" */;
+			buildConfigurationList = 5892F11A1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!" */;
 			buildPhases = (
 				5892F0EE1C66281900F2BCA2 /* Sources */,
 				5892F0EF1C66281900F2BCA2 /* Frameworks */,
@@ -222,14 +222,14 @@
 			);
 			dependencies = (
 			);
-			name = Countet;
+			name = "Countet!!!";
 			productName = Countet;
-			productReference = 5892F0F21C66281900F2BCA2 /* Countet.app */;
+			productReference = 5892F0F21C66281900F2BCA2 /* Countet!!!.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5892F1051C66281900F2BCA2 /* CountetTests */ = {
+		5892F1051C66281900F2BCA2 /* Countet!!!Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5892F11D1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "CountetTests" */;
+			buildConfigurationList = 5892F11D1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!Tests" */;
 			buildPhases = (
 				5892F1021C66281900F2BCA2 /* Sources */,
 				5892F1031C66281900F2BCA2 /* Frameworks */,
@@ -240,14 +240,14 @@
 			dependencies = (
 				5892F1081C66281900F2BCA2 /* PBXTargetDependency */,
 			);
-			name = CountetTests;
+			name = "Countet!!!Tests";
 			productName = CountetTests;
-			productReference = 5892F1061C66281900F2BCA2 /* CountetTests.xctest */;
+			productReference = 5892F1061C66281900F2BCA2 /* Countet!!!.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5892F1101C66281900F2BCA2 /* CountetUITests */ = {
+		5892F1101C66281900F2BCA2 /* Countet!!!UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5892F1201C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "CountetUITests" */;
+			buildConfigurationList = 5892F1201C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!UITests" */;
 			buildPhases = (
 				5892F10D1C66281900F2BCA2 /* Sources */,
 				5892F10E1C66281900F2BCA2 /* Frameworks */,
@@ -258,9 +258,9 @@
 			dependencies = (
 				5892F1131C66281900F2BCA2 /* PBXTargetDependency */,
 			);
-			name = CountetUITests;
+			name = "Countet!!!UITests";
 			productName = CountetUITests;
-			productReference = 5892F1111C66281900F2BCA2 /* CountetUITests.xctest */;
+			productReference = 5892F1111C66281900F2BCA2 /* Countet!!!.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -289,7 +289,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5892F0ED1C66281900F2BCA2 /* Build configuration list for PBXProject "Countet" */;
+			buildConfigurationList = 5892F0ED1C66281900F2BCA2 /* Build configuration list for PBXProject "Countet!!!" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -302,9 +302,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5892F0F11C66281900F2BCA2 /* Countet */,
-				5892F1051C66281900F2BCA2 /* CountetTests */,
-				5892F1101C66281900F2BCA2 /* CountetUITests */,
+				5892F0F11C66281900F2BCA2 /* Countet!!! */,
+				5892F1051C66281900F2BCA2 /* Countet!!!Tests */,
+				5892F1101C66281900F2BCA2 /* Countet!!!UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -389,12 +389,12 @@
 /* Begin PBXTargetDependency section */
 		5892F1081C66281900F2BCA2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5892F0F11C66281900F2BCA2 /* Countet */;
+			target = 5892F0F11C66281900F2BCA2 /* Countet!!! */;
 			targetProxy = 5892F1071C66281900F2BCA2 /* PBXContainerItemProxy */;
 		};
 		5892F1131C66281900F2BCA2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5892F0F11C66281900F2BCA2 /* Countet */;
+			target = 5892F0F11C66281900F2BCA2 /* Countet!!! */;
 			targetProxy = 5892F1121C66281900F2BCA2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -507,7 +507,7 @@
 				INFOPLIST_FILE = Countet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.Countet";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Countet!!!";
 			};
 			name = Debug;
 		};
@@ -518,7 +518,7 @@
 				INFOPLIST_FILE = Countet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.Countet";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Countet!!!";
 			};
 			name = Release;
 		};
@@ -529,8 +529,8 @@
 				INFOPLIST_FILE = CountetTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.CountetTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Countet.app/Countet";
+				PRODUCT_NAME = "Countet!!!";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Countet!!!.app/Countet!!!";
 			};
 			name = Debug;
 		};
@@ -541,8 +541,8 @@
 				INFOPLIST_FILE = CountetTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.CountetTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Countet.app/Countet";
+				PRODUCT_NAME = "Countet!!!";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Countet!!!.app/Countet!!!";
 			};
 			name = Release;
 		};
@@ -552,7 +552,7 @@
 				INFOPLIST_FILE = CountetUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.CountetUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Countet!!!";
 				TEST_TARGET_NAME = Countet;
 				USES_XCTRUNNER = YES;
 			};
@@ -564,7 +564,7 @@
 				INFOPLIST_FILE = CountetUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Aoi-Sakaue.CountetUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Countet!!!";
 				TEST_TARGET_NAME = Countet;
 				USES_XCTRUNNER = YES;
 			};
@@ -573,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5892F0ED1C66281900F2BCA2 /* Build configuration list for PBXProject "Countet" */ = {
+		5892F0ED1C66281900F2BCA2 /* Build configuration list for PBXProject "Countet!!!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5892F1181C66281900F2BCA2 /* Debug */,
@@ -582,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5892F11A1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet" */ = {
+		5892F11A1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5892F11B1C66281900F2BCA2 /* Debug */,
@@ -591,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5892F11D1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "CountetTests" */ = {
+		5892F11D1C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5892F11E1C66281900F2BCA2 /* Debug */,
@@ -600,7 +600,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5892F1201C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "CountetUITests" */ = {
+		5892F1201C66281900F2BCA2 /* Build configuration list for PBXNativeTarget "Countet!!!UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5892F1211C66281900F2BCA2 /* Debug */,

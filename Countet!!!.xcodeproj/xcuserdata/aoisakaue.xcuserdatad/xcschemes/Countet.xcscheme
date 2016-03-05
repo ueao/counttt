@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5892F0F11C66281900F2BCA2"
-               BuildableName = "Countet.app"
-               BlueprintName = "Countet"
-               ReferencedContainer = "container:Countet.xcodeproj">
+               BuildableName = "Countet!!!.app"
+               BlueprintName = "Countet!!!"
+               ReferencedContainer = "container:Countet!!!.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5892F1051C66281900F2BCA2"
-               BuildableName = "CountetTests.xctest"
-               BlueprintName = "CountetTests"
-               ReferencedContainer = "container:Countet.xcodeproj">
+               BuildableName = "Countet!!!.xctest"
+               BlueprintName = "Countet!!!Tests"
+               ReferencedContainer = "container:Countet!!!.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5892F1101C66281900F2BCA2"
-               BuildableName = "CountetUITests.xctest"
-               BlueprintName = "CountetUITests"
-               ReferencedContainer = "container:Countet.xcodeproj">
+               BuildableName = "Countet!!!.xctest"
+               BlueprintName = "Countet!!!UITests"
+               ReferencedContainer = "container:Countet!!!.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5892F0F11C66281900F2BCA2"
-            BuildableName = "Countet.app"
-            BlueprintName = "Countet"
-            ReferencedContainer = "container:Countet.xcodeproj">
+            BuildableName = "Countet!!!.app"
+            BlueprintName = "Countet!!!"
+            ReferencedContainer = "container:Countet!!!.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5892F0F11C66281900F2BCA2"
-            BuildableName = "Countet.app"
-            BlueprintName = "Countet"
-            ReferencedContainer = "container:Countet.xcodeproj">
+            BuildableName = "Countet!!!.app"
+            BlueprintName = "Countet!!!"
+            ReferencedContainer = "container:Countet!!!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5892F0F11C66281900F2BCA2"
-            BuildableName = "Countet.app"
-            BlueprintName = "Countet"
-            ReferencedContainer = "container:Countet.xcodeproj">
+            BuildableName = "Countet!!!.app"
+            BlueprintName = "Countet!!!"
+            ReferencedContainer = "container:Countet!!!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
